@@ -4,7 +4,13 @@ site_url: https://projetoDesignEDD.com/
 theme:
   name: material
   palette:
-    primary: green
+    primary: orange
+    secondary: red
+  logo:
+  favicon:
+
+plugins:
+  - search
 
 nav:
     - Home: index.md
