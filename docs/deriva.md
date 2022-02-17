@@ -103,3 +103,10 @@ Essa quadra é muito conhecida também. Se você precisa de assitência tecnica 
 <p align="center">
 <img width="450px" style="border-radius:10%" src="../assets/trilha.png" alt="trilha">
 </p>
+
+## Versionamento
+
+| Versão | Data| Modificação |Autor|
+| :--: | :--: | :--: | :--:|
+| 1.0  | 17/02/2022 | Criação da deriva | Victor Yukio |
+| 1.1  | 17/02/2022 | Correção das iamgens | Victor Yukio |
