@@ -6,8 +6,8 @@ theme:
   palette:
     primary: orange
     secondary: red
-  logo:
-  favicon:
+  # logo:
+  # favicon:
 
 plugins:
   - search
