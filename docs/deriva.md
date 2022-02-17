@@ -9,7 +9,7 @@ quem	não	pode	ou	não	deseja	sair.
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Para essa atividade escolho um caminho um pouco incomum passando por ciclovias, entrequadras e comércios dos mais variados. Sem mais delongas vamos inicar essa caminha sem rumo ou afins.
+Para essa atividade escolhi um caminho um pouco incomum passando por ciclovias, entrequadras e comércios dos mais variados. Sem mais delongas vamos inicar essa caminha sem rumo ou fim.
 </p>
 
 <center>
@@ -23,7 +23,7 @@ Para essa atividade escolho um caminho um pouco incomum passando por ciclovias, 
 
 <center>
 
-Essa árvore não é famosa, mas ela está nessa quadra a muito tempo. Já foi ameaçada de ser podada algumas vezes por está atrapalhando a passagem de pedestres. Contudo ela permaneceu lá por agradar os moradores locais.
+Essa árvore não é famosa, mas ela está nessa quadra a muito tempo. Já foi ameaçada de ser podada algumas vezes por está atrapalhando a passagem de pedestres. Porém, ela permaneceu lá por agradar os moradores locais.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d700.8063289183087!2d-47.89117917575449!3d-15.775065870203312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3a508ab3c10b%3A0xc62d47fef96abdff!2sCobog%C3%B3%20Mercado%20de%20Objetos!5e1!3m2!1spt-BR!2sbr!4v1645093549112!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -40,7 +40,7 @@ Essa árvore não é famosa, mas ela está nessa quadra a muito tempo. Já foi a
 
 <center>
 
-Eu passei essa ciclovia toda semana e vi ela ganhar mais vida com essa nova tendência de food trucks. Devo dizer que é ótimo ter uma lugar aberto para comer uma comida diferente. As vezes me dá forças para sair de casa e aproveitar as ruas.
+Eu passei essa ciclovia toda semana e vi ela ganhar mais vida com essa nova tendência de food trucks. Devo dizer que é ótimo ter uma lugar aberto para comer uma comida diferente, oque as vezes me dá forças para sair de casa e aproveitar as ruas.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1919.804538195021!2d-47.8929806418181!3d-15.7718063160362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3ba71343066f%3A0x7e09e9137545398!2sVinnys%20pizza!5e0!3m2!1spt-BR!2sbr!4v1645093477494!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -57,7 +57,7 @@ Eu passei essa ciclovia toda semana e vi ela ganhar mais vida com essa nova tend
 
 <center>
 
-Isso é uma barraca de cachorro-quente, mas até o ano passado havia uma loja de produtos orgânicos e antes disso uma velha banca de revista. Acŕedito que essas bancas vem se tornando algo cada vez mais raro por conta da dificuldade de encontrar as que se mantem de pé.
+Isso é uma barraca de cachorro-quente, mas até o ano passado havia uma loja de produtos orgânicos e antes disso uma velha banca de revista. Acredito que essas bancas vem se tornando algo cada vez mais difícil de encontrar por conta da tecnologia e o desuso de revistas e afins.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1401.5986065057045!2d-47.88458453122295!3d-15.777098995017486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3a54841dc6d7%3A0x42cd14c046ea7880!2sEdivaldo%20Hot%20Dog%2C%20Banca%20104%20Norte!5e1!3m2!1spt-BR!2sbr!4v1645093590255!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
