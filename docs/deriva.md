@@ -18,7 +18,7 @@ Para essa atividade escolho um caminho um pouco incomum passando por ciclovias, 
 </center>
 
 <p align="center">
-<img width="450px" style="border-radius:10%" src="./assets/tree.jpeg" alt="Yukio">
+<img width="450px" style="border-radius:10%" src="../assets/tree.jpeg" alt="árvore">
 </p>
 
 <center>
@@ -35,7 +35,7 @@ Essa árvore não é famosa, mas ela está nessa quadra a muito tempo. Já foi a
 </center>
 
 <p align="center">
-<img width="450px" style="border-radius:10%" src="./assets/foodtruck.jpeg" alt="Yukio">
+<img width="450px" style="border-radius:10%" src="../assets/foodtruck.jpeg" alt="food truck">
 </p>
 
 <center>
@@ -52,7 +52,7 @@ Eu passei essa ciclovia toda semana e vi ela ganhar mais vida com essa nova tend
 </center>
 
 <p align="center">
-<img width="450px" style="border-radius:10%" src="./assets/hotdog.jpeg" alt="Yukio">
+<img width="450px" style="border-radius:10%" src="../assets/hotdog.jpeg" alt="banca">
 </p>
 
 <center>
@@ -70,7 +70,7 @@ Isso é uma barraca de cachorro-quente, mas até o ano passado havia uma loja de
 
 imagem 1 | imagem 2
 :----:|:----:
-<img width="350px" style="border-radius:10%" src="./assets/passarela-df.jpg" alt="Yukio"> | <img width="250px" style="border-radius:10%" src="./assets/passagem-do-medo.jpeg" alt="Yukio">
+<img width="350px" style="border-radius:10%" src="../assets/passarela-df.jpg" alt="pass1"> | <img width="250px" style="border-radius:10%" src="../assets/passagem-do-medo.jpeg" alt="pass2">
 
 
 <center>
@@ -87,7 +87,7 @@ Essa passarela subterrânea é famosa no plano. Já foi lugar de muitos crimes e
 </center>
 
 <p align="center">
-<img width="450px" style="border-radius:10%" src="./assets/Informatica.jpg" alt="Yukio">
+<img width="450px" style="border-radius:10%" src="../assets/Informatica.jpg" alt="informaticaQ">
 </p>
 
 <center>
@@ -101,5 +101,5 @@ Essa quadra é muito conhecida também. Se você precisa de assitência tecnica 
 ## A trilha
 
 <p align="center">
-<img width="450px" style="border-radius:10%" src="./assets/trilha.png" alt="Yukio">
+<img width="450px" style="border-radius:10%" src="../assets/trilha.png" alt="trilha">
 </p>
