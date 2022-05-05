@@ -29,7 +29,7 @@ Pesquisando mais sobre descobri um artista peruano que recriou as 55 cidades inv
 </p>
 
 <p align="center">
-<img width="450px" style="border-radius:10%" src="../assets/arqzenobia.jpg" alt="arqzenobia">
+<img width="450px" style="border-radius:10%" src="../assets/arqzenobia.jpeg" alt="arqzenobia">
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
