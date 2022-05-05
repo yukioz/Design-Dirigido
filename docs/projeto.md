@@ -79,6 +79,22 @@ Como parte do projeto criei minha própria interpretação da arquitetura de Zen
 
 <div align="center" class="sketchfab-embed-wrapper"> <iframe title="Bamboo house" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/fa623f2c8e1b46e29e4025ce13b65169/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/bamboo-house-fa623f2c8e1b46e29e4025ce13b65169?utm_medium=embed&utm_campaign=share-popup&utm_content=fa623f2c8e1b46e29e4025ce13b65169" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Bamboo house </a> by <a href="https://sketchfab.com/yukio.link?utm_medium=embed&utm_campaign=share-popup&utm_content=fa623f2c8e1b46e29e4025ce13b65169" target="_blank" style="font-weight: bold; color: #1CAAD9;"> yukio.link </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=fa623f2c8e1b46e29e4025ce13b65169" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
+## Sobre a ferramente Blender
+
+<p style="text-indent: 20px; text-align: justify">
+O Blender é uma ferramenta que permite a criação de vastos conteúdos de 3D. Oferece funcionalidades completas para modelagem, renderização, animação. Muito utilizado no design de jogos o desenvolvedor pode construir cidades tão realisticas quanto da vida real.
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JjnyapZ_P-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p align="center">
+<img width="450px" style="border-radius:10%" src="../assets/assasin_creed.jpg" alt="ACArq">
+</p>
+
+<p align="center">
+Arquitetura dentro do jogo Assasin Creed.
+</p>
+
 ## Referências
 
 - https://revistacult.uol.com.br/home/peruana-quer-ilustrar-cidades-invisiveis-de-calvino/ , acessado em 04/05/2022.
@@ -92,3 +108,4 @@ Como parte do projeto criei minha própria interpretação da arquitetura de Zen
 | Versão | Data| Modificação |Autor|
 | :--: | :--: | :--: | :--:|
 | 1.0  | 04/05/2022 | Criação do projeto | Victor Yukio |
+| 2.0  | 05/05/2022 | Adição de novos conteúdos | Victor Yukio |
