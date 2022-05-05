@@ -16,4 +16,5 @@ nav:
     - Home: index.md
     - Atividades:
       - Deriva: deriva.md
+      - Projeto: projeto.md
     - About: about.md
